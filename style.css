@@ -403,17 +403,21 @@ img.download{
     font-family: inherit;
     font-size: 15px;
     font-weight: 700;
-    margin: 6px auto;
+    margin: 5px auto;
 }
 
 .button-project-link-icon{
     margin: 5px;
+    min-width: 16px;
+    max-width: 16px;
+    min-height: 16px;
+    max-height: 16px;
 }
 
 button.project-link{
     display: inline-flex;
     justify-content: center;
-    height: 30px;
+    height: 26px;
     width: fit-content;
     margin: 5px 5px;
     padding: 0 10px;
