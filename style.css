@@ -335,13 +335,7 @@ img.download{
 }
 
 .education-side.center{
-    width: 593px;
-}
-
-.education-side.right{
-    width: 134;
-    padding: 40px 50px 150px 50px;
-
+    width: 830px;
 }
 
 .section-text.careere, .section-text.education{
@@ -351,6 +345,10 @@ img.download{
 .careere.block, .education.block{
     display: flex;
     justify-content: center;
+}
+
+.careere.block.relevant{
+    background-color: #ff000012;
 }
 
 .section-text{
