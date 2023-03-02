@@ -97,6 +97,10 @@ h6{
     color: #f0f0f0;
 }
 
+.pale-text{
+    color: #6b6a6a;
+}
+
 a{
     color: inherit;
     text-decoration: none;
@@ -345,10 +349,6 @@ img.download{
 .careere.block, .education.block{
     display: flex;
     justify-content: center;
-}
-
-.relevant{
-    background-color: #ff000012;
 }
 
 .section-text{
